@@ -7,3 +7,11 @@ I know, the name is way too random.
 - 👀 I’m interested in Kotlin & Android
 - 🌱 I’m currently learning Rust
 - 😄 I use Windows btw
+
+### F-Droid
+
+Add my F-Droid repository:
+
+https://25huizengek1.github.io/fdroid-repo/fdroid/repo/
+
+<img src="https://25huizengek1.github.io/fdroid-repo/fdroid/repo/index.png" width="25%" alt="F-Droid QR code" />
