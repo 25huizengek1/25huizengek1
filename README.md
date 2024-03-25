@@ -12,6 +12,6 @@ I know, the name is way too random.
 
 Add my F-Droid repository:
 
-https://25huizengek1.github.io/fdroid-repo/fdroid/repo/
+https://repo.vitune.app
 
-<img src="https://25huizengek1.github.io/fdroid-repo/fdroid/repo/index.png" width="25%" alt="F-Droid QR code" />
+<img src="https://repo.vitune.app/fdroid/repo/index.png" width="25%" alt="F-Droid QR code" />
