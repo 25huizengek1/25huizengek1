@@ -2,7 +2,7 @@
 
 I know, the name is a bit random, made it up in elementary school
 
-![README stats](https://github-readme-stats.vercel.app/api?username=25huizengek1&show_icons=true&theme=gruvbox)
+![README stats](https://bartoostveen.nl/readme)
 
 - I’m interested in Kotlin
 - I’m currently learning Rust and Nix
